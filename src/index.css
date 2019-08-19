@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#warterFall {
+    background-color: skyblue;
+    width: 500px;
+    height: 900px;
+    margin: 100px auto;
+}
+#view {
+    position: relative;
+    background-color: pink;
+    width: 90%;
+    height: 800px;
+    margin:0 auto
+    
+}
+#view li {
+    width: 60px;
+    /* border: 1px solid; */
+    position: absolute;
+}
+#view li img {
+    width: 100%;
+    height: auto;
+
+
+}
+#test_parent {
+    margin: 50px;
+    width: 80px;
+}
+#test_parent img {
+    width: 100%;
+}
